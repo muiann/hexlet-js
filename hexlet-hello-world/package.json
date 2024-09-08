@@ -1,0 +1,16 @@
+{
+  "name": "hexlet-hello-world",
+  "type": "module",
+  "version": "9.2.0",
+  "description": "The first package is for us for the first hexlet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "{\"name\":\"Anna Mulyugina\", \"email\": \"aimulyugina@yandex.ru\"}",
+  "license": "ISC",
+  "repository": "github: muiann/hexlet-js"
+    "type": "git",
+    "url": "{ "
+  }
+}
